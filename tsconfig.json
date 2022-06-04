@@ -3,6 +3,16 @@
   "compileOnSave": false,
   "compilerOptions": {
     "baseUrl": "./",
+    "paths": {
+      "calendar-month": [
+        "dist/calendar-month/calendar-month",
+        "dist/calendar-month"
+      ],
+      "mat-sign-in": [
+        "dist/mat-sign-in/mat-sign-in",
+        "dist/mat-sign-in"
+      ]
+    },
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
     "strict": true,
