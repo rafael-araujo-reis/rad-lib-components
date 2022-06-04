@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { MatSignInComponent } from '../mat-sign-in.component';
+import { MatSignInComponent } from './mat-sign-in.component';
 
 
 

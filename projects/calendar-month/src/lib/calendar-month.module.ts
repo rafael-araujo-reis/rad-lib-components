@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { CalendarMonthComponent } from '../calendar-month.component';
+import { CalendarMonthComponent } from './calendar-month.component';
 
 
 
